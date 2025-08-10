@@ -9,4 +9,3 @@ Flask-Mail
 python-dotenv
 razorpay
 gunicorn
-python-3.10.9
