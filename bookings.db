@@ -1,0 +1,7 @@
+CREATE TABLE bookings (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT NOT NULL,
+    email TEXT NOT NULL,
+    date TEXT NOT NULL,
+    paid INTEGER DEFAULT 0
+);

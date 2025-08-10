@@ -1,0 +1,12 @@
+flask
+flask-login
+flask-mail
+flask-wtf
+python-dotenv
+razorpay
+sqlite3
+Flask
+Flask-Mail
+python-dotenv
+razorpay
+
